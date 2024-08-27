@@ -27,7 +27,7 @@ The implications of these fields extend to understanding consciousness and devel
 
 ```
 Simulate quantum neurogenetic concepts.
-Develop an quantum neurogenetic simulation.
+Develop a Computational Neurogenetic Model (CNGM).
 List quantum neurogenetic concepts.
 Print the framework for quantum neurogenetics.
 ```
