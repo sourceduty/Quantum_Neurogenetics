@@ -35,7 +35,7 @@ Print the framework for quantum neurogenetics.
 #
 ### Framework for Quantum Neurogenetics
 
-<br>
+.........................................
 
 #### Foundational Principles
 
@@ -60,7 +60,7 @@ Finally, the framework would outline potential applications and implications of 
 #
 ### Quantum Neurogenetic Concepts
 
-<br>
+.........................................
 
 #### Quantum Coherence in Genetic Processes: 
 
